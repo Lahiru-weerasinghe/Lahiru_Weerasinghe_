@@ -1,0 +1,86 @@
+{
+  "experiences": {
+    "research": [
+      {
+        "logo": "img/uf_logo.png",
+        "role": "Research Assistant",
+        "aff": "University of Florida, USA",
+        "period": "May 2024 - Present",
+        "dept": "Embedded Systems Lab",
+        "points": [
+          "Leading SRC-funded research project on Compositional Security Verification of Trusted Execution Environments (TEEs).",
+          "Conducting research in verifying confidential computing architectures, specifically VM-based TEEs (e.g. Intel TDX)",
+          "Peer reviewing conference articles and assisting new proposal writing."
+        ]
+      },
+      {
+        "logo": "img/uf_logocopy.jpeg",
+        "role": "Research Assistant",
+        "aff": "University of Florida, USA",
+        "dept": "Embedded Systems Lab",
+        "period": "Jan 2021 - Dec 2023",
+        "points": [
+          "Leading NSF-funded research project on Designing Secure and Trustworthy Network-on-Chip (NoC) Architectures.",
+          "Conducting research in securing on-chip communication in diverse architectures and technologies.",
+          "Conducting research in accelerator security and confidential computing.",
+          "Peer reviewing conference articles and assisting new proposal writing."
+        ]
+      }
+    ],
+
+    "professional": [
+
+      {
+        "logo": "img/cg_logo.jpeg",
+        "role": "Software Engineer",
+        "aff": "Sampath Information Technology Solutions",
+        "period": "Mar 2024 - present",
+        "dept": "System Development Division",
+        "points": [
+          "Migrated legacy Java EE projects to modern Spring Boot architecture, enhancing system performance and scalability.",
+          "Sampath Direct Debit Service (SDDS): Implemented payment scheduling functionality to automate standing orders and ensure seamless customer payments.",
+          "Sampath Vishawa Retail Payment Processing Service (SVRPS): Managed end-to-end payment workflows, including currency exchange and service fee calculations for customer transactions via Sampath Vishawa.",
+          "Maintained code quality by enforcing SonarLint standards, achieving 80% test coverage using JUnit and Mockito frameworks."
+        ]
+      },
+      {
+        "logo": "img/cg_logo.jpeg",
+        "role": "Software Engineering Intern",
+        "aff": "Sampath Information Technology Solutions",
+        "period": "May 2023 - Nov 2023",
+        "dept": "System Development Division",
+        "points": [
+          "Advanced semantic analysis of reviews",
+          "Classification of browser history data for personalization",
+          "Developed in-house Elasticsearch wrapper to support multiple projects."
+        ]
+      }
+      
+
+    ],
+    "volunteer": [
+     
+      {
+        "logo": "img/aiesec_logo.jpeg",
+        "role": "Student Representative - Sri Lanka Institute of Information Technology",
+        "aff": "",
+        "period": "Sep 2020 - Sep 2024",
+        "dept": null,
+        "points": [
+          "World's largest youth run organization",
+          "Outgoing Exchange (OGX) National Coordinator for Sri Lanka"
+        ]
+      },
+      {
+        "logo": "img/aiesec_logo.jpeg",
+        "role": "Active Member - Leo Club of SLIIT",
+        "aff": "",
+        "period": "Jul 2021 - Jan 2024",
+        "dept": "Sales and Marketing Team Leader",
+        "points": [
+          "Led the team to promote a global volunteering program through a range of marketing strategies."
+        ]
+      }
+    ]
+  }
+}

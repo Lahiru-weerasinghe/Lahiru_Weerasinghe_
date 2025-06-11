@@ -1,0 +1,68 @@
+{
+  "journal": [
+ 
+
+    {
+      "img": "survey.png",
+      "type": "Journal",
+      "title": "The performance of automated Hotel Management System",
+      "venue": "",
+      "text": "Developed a smart HMS for Hotel Liberty (Sri Lanka) using MERN stack and embedded sensors. The system automates room booking, billing, energy management, and customer service, reducing manual work and enhancing efficiency. Key features include auto-controlled doors, voice-activated devices, secure payments, and real-time room verification.",
+      "authors": ["Lahiru Weerasinghe", "Pinsara Bandara", "Chamodya Kumari"],
+      "downloadLink": "",
+      "proceedingLink": "https://dl.acm.org/doi/10.1145/3631117",
+      "keyWords": [
+
+
+  "MERN Stack",
+  "Embedded Sensors",
+  "Room Automation",
+  "Smart Hotel",
+  "Energy Management",
+  "Voice-Activated Devices",
+  "Auto-Controlled Doors",
+  "Real-time Room Verification",
+  "Secure Payments",
+  "Billing Automation",
+  "Hotel Liberty Sri Lanka",
+  "Customer Service Automation"
+]
+    }
+  ],
+  "conf": [
+    {
+      "img": "wireless.png",
+      "type": "Conference",
+      "title": "A LoRa-based Wireless Communication System for Enhancing the Safety and Efficiency of Fishery Industry.",
+      "venue": "The International Conference on Advancements in Computing (ICAC)",
+      "location_date": " Sri Lanka, Dec 9-10, 2024",
+      "text": "I developed a LoRa-based wireless communication system to address communication and safety challenges in Sri Lanka’s fisheries industry. The system enables real-time data exchange between fishing vessels and shore stations, offering features such as emergency alerts, illegal fishing detection, sea weather prediction, and an early warning system. It integrates blockchain and smart contracts for secure, transparent communication. Leveraging low-power LoRa technology and IoT networks, this solution enhances coordination, improves safety, and boosts efficiency in the sector.",
+      "authors": ["Lahiru Weerasinghe", "Pinsara Bandara", "Chamodya Kumari","Rithma Keshan Madhuthisara"],
+      "downloadLink": "https://lahiru-weerasinghe.github.io/Research_Web/#project-scope",
+      "proceedingLink": "http://www.hostsymposium.org/",
+      "keyWords": [
+  "Fisheries Sector",
+  "LoRa-based Wireless Communication System",
+  "Real-time Data Exchange",
+  "Fishing Vessels",
+
+  "Communication and Safety",
+
+  "Illegal Fishing Detection",
+  "Sea Weather Prediction",
+  "Early Warning System",
+  "Blockchain",
+  "Smart Contracts",
+  "Secure Communication",
+
+  "IoT Nodes",
+  "Ad hoc Network",
+  "Low-power Communication",
+
+  "Fishing Industry Efficiency",
+  "Maritime Safety"
+]
+    }
+
+  ]
+}

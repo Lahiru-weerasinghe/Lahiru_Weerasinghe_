@@ -1,0 +1,34 @@
+{
+  "recentHighlights": [
+    {
+      "descriptions": [
+        {
+          "preText": "Started my Master’s Degree in",
+          "link": "https://www.kbs.edu.au/courses/master-of-it-extension/",
+          "linkText": "Master of Information Technology (Extension)",
+          "postText": " at Kaplan Business School, Australia - Jul 2025"
+        }
+      ]
+    },
+     {
+      "descriptions": [
+        {
+          "preText": "Completed Bachelor's degree in Information Technology from",
+          "link": "https://sliit.lk",
+          "linkText": " SLIIT",
+          "postText": " — Specialization in Software Engineering - Sep 2024"
+        }
+      ]
+    },
+    {
+      "descriptions": [
+        {
+          "preText": "Started working as",
+          "link": "https://sits.lk/",
+          "linkText": "Associate Software Engineer",
+          "postText": " at Sampath Information Technology Solutions - Mar 2024"
+        }
+      ]
+    }
+  ]
+}
